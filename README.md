@@ -2,6 +2,8 @@
 
 > **一句話定位**：專為 AI 代理人（Antigravity、Claude Code、Codex、Cursor）打造的簡報全能總控指揮中心。集結開源社區最強大的 10 大 PPT 專案，透過單一指令 `/ppt` 智能分流，兼具**頂層邏輯策劃、微軟原生可編輯 PPTX、網頁全螢幕動態演講、後端技術架構圖解與 AI 論文海報生圖**。
 
+[English](README_en.md) | [繁體中文](README.md)
+
 [![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/h104651/PTT_Skills)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)]()
